@@ -29,6 +29,6 @@ Mailer.send_notification(notification.id)
 ### Reason
 
 Normal database system cannot rollback changes in external system when a
-ROLLBACK request is issued. If do like the "not prefer" part in the example, we
+ROLLBACK request is issued. If we do like the "not prefer" part in the example, we
 can have a situation where a notification is mailed to user but the actual
 notification is not created.
