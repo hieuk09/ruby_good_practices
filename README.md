@@ -13,3 +13,5 @@ exception](customized_exception_class.md)
 primitive](use_value_object_instead_of_primitive.md)
 - [Use `expect` instead of `allow` in rspec](expect_vs_allow.md)
 - [Use `instance_double` instead of `double`](verify_double.md)
+- [Use `instance_double` with string instead of
+class](use_instance_double_with_string.md)
