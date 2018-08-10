@@ -7,6 +7,7 @@ transactions](external_side_effect_in_transaction.md)
 - [Avoid putting full object in background
 job](avoid_putting_full_object_in_queue.md)
 - [Create just enough data for test](create_enough_data_in_test.md)
+- [Do not abuse `present?` and `blank?`](do_not_abuse_present_and_blank.md)
 - [Use customized exception instead of ruby-provided
 exception](customized_exception_class.md)
 - [Use value object instead of
