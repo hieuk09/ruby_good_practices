@@ -58,5 +58,5 @@ There are two reasons for this:
 - Performance: `blank?` and `present?` have worse performance compared to other
 similar checks.
 - Maintainability: `blank?` and `present?` are too generic, which hide the
-developers assumption about type of an variable. Using other checks let the
+developers assumption about type of a variable. Using other checks let the
 reader know what to expect from the value.
